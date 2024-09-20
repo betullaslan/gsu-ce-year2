@@ -29,4 +29,4 @@ An efficient implementation of the **Counting Sort** algorithm for non-negative 
 
 ---
 
-> For more details, refer to the README files inside each project folder.
+> For more details, refer to the README files inside each project folder
